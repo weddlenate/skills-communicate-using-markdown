@@ -5,3 +5,5 @@
 ##### H5 Header
 ###### H6 Header
 Here's what all six header sizes look like in markdown
+
+![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
