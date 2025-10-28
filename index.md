@@ -7,3 +7,7 @@
 Here's what all six header sizes look like in markdown
 
 ![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
